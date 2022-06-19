@@ -1,0 +1,5 @@
+nltk
+chatterbot
+chatterbot_corpus
+pytz
+flask

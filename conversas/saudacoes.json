@@ -1,0 +1,20 @@
+{
+    "conversas": [
+        {
+            "mensagem": ["oi", "olá", "tudo bem?"],
+            "resposta": "Olá, sou o robô de atendimento da Locadora de Carros. Como posso te ajudar?"
+        },
+        {
+            "mensagem": ["bom dia"],
+            "resposta": "Bom dia, sou o robô de atendimento da Locadora de Carros. Como posso te ajudar?"
+        },
+        {
+            "mensagem": ["boa tarde"],
+            "resposta": "Boa tarde, sou o robô de atendimento da Locadora de Carros. Como posso te ajudar?"
+        },
+        {
+            "mensagem": ["boa noite"],
+            "resposta": "Boa noite, sou o robô de atendimento da Locadora de Carros. Como posso te ajudar?"
+        }
+    ]
+}

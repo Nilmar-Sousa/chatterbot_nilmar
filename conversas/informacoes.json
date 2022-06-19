@@ -1,0 +1,32 @@
+{
+    "conversas": [
+        {
+            "mensagem": ["Onde a locadora está localizada?", "Onde a locadora fica?", "Onde fica a locadora?", "Onde é a locadora?", "Onde fica?"],
+            "resposta": "A locadora está localizada na Avenida Airton Sena, número: 7, Bairro: Cruzeiro"
+        },
+        {
+            "mensagem": ["Qual é o horário de funcionamento da locadora?", "Até que horas funciona?", "Que horas abre?", "Que horas fecha?", "Abre aos sábados?", "Abre no domingo?", "Abre aos domingos?", "Abre no sábado?"],
+            "resposta": "A locadora funciona nos seguintes horários: Segunda a Sexta (08:00 até 18:00) e sábado (08:00 até 12:00)."
+        },
+        {
+            "mensagem": ["Quais são as categorias de carro que a locadora oferece?", "Quais categorias de carro a locadora possuí?", "Quais são as categorias?"],
+            "resposta": "A locadora possuí as seguintes categorias de carros: Grupo A - Compacto, Grupo B - Compacto Com Ar, Grupo C - Econômico Com Ar, Grupo F - Intermediário, Grupo G - Suv, Grupo L - Executivo, Grupo V - Pick-up Com Ar."
+        },
+        {
+            "mensagem": ["Como alugar um carro?", "Como posso alugar um carro?", "Como fazer para alugar um carro", "Como alugar um carro?", "o que fazer para alugar um carro?"],
+            "resposta": "Para alugar um carro basta escolher a categoria e o carro, em seguida escolher a data e a hora de retirada e de devolução, após isso pagar o valor do total das diárias e retirar o carro no dia e horário selecionado."
+        },
+        {
+            "mensagem": ["Quais as formas de pagamento?", "Quais são as condições de pagamento?", "Formas de pagamento aceitas?"],
+            "resposta": "As formas de pagamento disponíveis são: Dinheiro, Pix, Cartão de Débito, Cartão de Crédito (até 12 vezes s/ juros)."
+        },
+        {
+            "mensagem": ["O que devo fazer em casos de acidente, furto ou roubo do carro alugado?", "O que fazer em caso de acidente?", "O que fazer em caso de furto ou roubo?"],
+            "resposta": "Em ambos os casos é necessário registrar um boletim de ocorrência e levar até a nossa locadora para dar sequência aos procedimentos necessários."
+        },
+        {
+            "mensagem": ["Qual o período máximo que posso ficar com um carro alugado?", "Qual o máximo de tempo que posso ficar com o carro alugado", "Quanto tempo posso ficar com o carro alugado?", "Quantos dias posso ficar com o carro?"],
+            "resposta": "O período máximo para locações é de 30 dias"
+        }
+    ]
+}
